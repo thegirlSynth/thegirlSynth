@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 😊, I'm Cynthia Uche</h1>
+<h1 align="center">I'm Cynthia Uche <br> 😊</h1>
 <h3 align="center">A passionate UI/UX Designer learning Software Engineering</h3>
 
 - 🌱 I’m currently learning **C**
