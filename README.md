@@ -18,9 +18,10 @@
 <a href="https://www.youtube.com/c/cynthia uche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cynthia uche" height="30" width="40" /></a>
 </p>
 
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thegirlSynth&theme=dark)](https://git.io/streak-stats)
 
-<!--
+
 **thegirlSynth/thegirlSynth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
