@@ -4,23 +4,27 @@
 
 - 🌱 I’m currently learning **C && Python**
 
+<!--
 - 📝 I regularly write articles on [medium.com/@thegirlSynth](medium.com/@thegirlSynth)
+-->
 
 - 👯 I’m looking to collaborate on any project that involves creating amazing stuff with C and Python.
 
 - 📫 Reach me at **cynthianuchepro@gmail.com**
 
-- ⚡ Fun fact: **I think coding is my personal IKIGAI. 😁😁**
+- ⚡ Fun fact: **Ich spreche ein bisschen Deutsch. 😁😁**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thegirlsynth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegirlsynth" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cynthia uche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cynthia uche" height="30" width="40" /></a>
 </p>
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thegirlSynth&theme=dark)](https://git.io/streak-stats)
 
-<!--
+
 
 
 **thegirlSynth/thegirlSynth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
