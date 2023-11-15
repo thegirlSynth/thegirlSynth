@@ -23,4 +23,4 @@
 
 🌐 **Check out my work:** [GitHub Profile](https://github.com/thegirlSynth)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thegirlSynth&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thegirlSynth&theme=dark)](https://git.io/streak-stats) -->
